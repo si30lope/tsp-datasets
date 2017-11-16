@@ -10,6 +10,8 @@ response to the appropriate question in your TSP project submission.
 
 * MAAC Basketball Teams.  11 places.  Contributed by Jim Teresco.
 
+* NBA Eastern Conference cities.  15 places.  Contributed by John Lamb.
+
 * NFL Cities in the AFC as of 2016 plus Canton, Ohio.  17 places.
   Adapted by Jim Teresco from Dr. David Valentine's similar file,
   http://granite.sru.edu/~davidv/tspLittleFe/nflData.txt (added edges
