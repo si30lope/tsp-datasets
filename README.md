@@ -8,6 +8,10 @@ response to the appropriate question in your TSP project submission.
 
 # List of Data Sets (Keep in order by size)
 
+* Some SUNY schools.  8 places.  Contributed by Matt Pigliavento.
+
+* Made-up data.  10 places.  Contributed by Matt Pigliavento.
+
 * MAAC Basketball Teams.  11 places.  Contributed by Jim Teresco.
 
 * NBA Eastern Conference cities.  15 places.  Contributed by John Lamb.
