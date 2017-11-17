@@ -1,0 +1,22 @@
+10
+14439 20308 26906 26759 27825 27940 26660 28169 28251 29029
+20308
+26906
+26759
+27825
+27940
+26660
+28169
+28251
+29029
+
+Mount Elbert
+Denali
+Cho Oyu
+Manaslu
+Makalu
+Lhotse
+Nanga Parbat
+Kangchenjunga
+K2
+Mount Everest
