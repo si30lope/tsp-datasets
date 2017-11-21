@@ -10,7 +10,11 @@ response to the appropriate question in your TSP project submission.
 
 * Some SUNY schools.  8 places.  Contributed by Matt Pigliavento.
 
+* Some schools in the big10 athletic conference. 8 schools. Contributed by Jonathan Pratico
+
 * Made-up data.  10 places.  Contributed by Matt Pigliavento.
+
+* MLB east stadiums, some defunct. 11 stadiums. Contributed by Jonathan Pratico 
 
 * MAAC Basketball Teams.  11 places.  Contributed by Jim Teresco.
 
